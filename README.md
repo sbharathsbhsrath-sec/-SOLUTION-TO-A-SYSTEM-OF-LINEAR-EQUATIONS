@@ -26,6 +26,7 @@ B=np.array([-9,4,-1])
 soln=np.linalg.solve(A,B)
 print(soln)
 ```
+<img width="1287" height="210" alt="image" src="https://github.com/user-attachments/assets/2e64bf22-f332-4a59-a301-167003ed0b3b" />
 
 
 ## Result: 
